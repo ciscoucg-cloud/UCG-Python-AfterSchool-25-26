@@ -1,4 +1,4 @@
-#Program Description: Thepurpose ofthis progrom is to reverse the number enteredby the user
+#Program Description: The purpose of this progrom is to reverse the number entered by the user
 
 
 # Take the number from the user as a sting
